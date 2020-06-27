@@ -14,6 +14,9 @@ Remember:
 
 Replication of the fMRI data analysis (BART and SS task) presented in the PhD thesis of Jessica Cohen (University of California, Los Angeles).  
 
+Materials and Methods for OpenfMRI ds009: The generality of self control -->   https://openfmri.org/media/ds000009/ds009_methods_0_CchSZHn.pdf
+
+fMRI Data set  -->    https://openneuro.org/datasets/ds000009/versions/00002
 					
 RESEARCH REPORT 
 
